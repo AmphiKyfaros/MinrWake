@@ -1,0 +1,62 @@
+{
+    "block.wooden_door.open": {
+        "replace": true,
+        "sounds": [
+            "random/creak"
+        ]
+    },
+    "entity.experience_orb.pickup": {
+        "replace": true,
+        "sounds": [
+            "random/newday"
+        ]
+    },
+    "ambient.warped_forest.loop": {
+        "replace": true,
+        "sounds": [
+            "random/heartbeat"
+        ]
+    },
+    "block.slime.break": {
+        "replace": true,
+        "sounds": [
+            "random/jumpscare"
+        ]
+    },
+    "block.wood.fall": {
+        "replace": true,
+        "sounds": [
+            "random/fall"
+        ]
+    },
+    "entity.cow.milk": {
+        "replace": true,
+        "sounds": [
+            "random/alarm1"
+        ]
+    },
+    "entity.enderdragon.flap": {
+        "replace": true,
+        "sounds": [
+            "random/knock"
+        ]
+    },
+    "music_disc.blocks": {
+        "replace": true,
+        "sounds": [
+            "random/song1"
+        ]
+    },
+    "music_disc.chirp": {
+        "replace": true,
+        "sounds": [
+            "random/song2"
+        ]
+    },
+    "music_disc.mellohi": {
+        "replace": true,
+        "sounds": [
+            "random/song3"
+        ]
+    }
+}
